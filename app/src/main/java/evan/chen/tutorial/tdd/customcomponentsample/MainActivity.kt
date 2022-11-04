@@ -1,8 +1,8 @@
 package evan.chen.tutorial.tdd.customcomponentsample
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
